@@ -1,0 +1,1 @@
+This repo contains code and data created from said code, from sports-reference.com. It analyzes the 2020-2021 NCAA Men's basketball season, with the end goal of figuring out what statistics are correlated with teams making and performing well in the "March Madness" season tournament at the end of the year.
